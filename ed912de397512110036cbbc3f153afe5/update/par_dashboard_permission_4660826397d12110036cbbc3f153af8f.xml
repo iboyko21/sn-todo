@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="To Do Workspace">81604263a9d121102fdbe6b494e1aa92</dashboard>
+        <group/>
+        <role display_value="x_968807_to_do.user" name="x_968807_to_do.user">bd912de397512110036cbbc3f153afee</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-06 21:43:36</sys_created_on>
+        <sys_id>4660826397d12110036cbbc3f153af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>81604263a9d121102fdbe6b494e1aa92</sys_name>
+        <sys_package display_value="To Do" source="x_968807_to_do">ed912de397512110036cbbc3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ed912de397512110036cbbc3f153afe5</sys_scope>
+        <sys_update_name>par_dashboard_permission_4660826397d12110036cbbc3f153af8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-06 21:43:36</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>
