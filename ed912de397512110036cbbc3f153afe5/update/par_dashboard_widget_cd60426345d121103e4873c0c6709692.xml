@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">0560426310d1211068087528d94a8293</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"22.1.7","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_968807_to_do_to_do","filterQuery":"due_dateONTomorrow@javascript:gs.beginningOfTomorrow()@javascript:gs.endOfTomorrow()","id":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk0MDUyNTA=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Due Tomorrow","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk0MDUyNTA=","id":"ZEdGaWJHVjRYemsyT0Rnd04xOTBiMTlrYjE5MGIxOWtiekUyTnpneE16azBNRFV5TlRBPTE2NzgxMzk0MDU2Mzg=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-06 21:43:34</sys_created_on>
+        <sys_id>cd60426345d121103e4873c0c6709692</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_968807_to_do">ed912de397512110036cbbc3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ed912de397512110036cbbc3f153afe5</sys_scope>
+        <sys_update_name>par_dashboard_widget_cd60426345d121103e4873c0c6709692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-06 21:51:57</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>4</x>
+        <y>4</y>
+    </par_dashboard_widget>
+</record_update>

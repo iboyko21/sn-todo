@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">0560426310d1211068087528d94a8293</canvas>
+        <component display_value="Pie">96abe7e38d8790718022c5630a92176c</component>
+        <component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_968807_to_do_to_do","id":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","id":"ZEdGaWJHVjRYemsyT0Rnd04xOTBiMTlrYjE5MGIxOWtiekUyTnpneE16azROems1TlRNPTE2NzgxMzk4ODA5Nzk=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","groupByField":"project","isRange":false,"isChoice":false,"isPaBucket":false}]}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-06 21:58:45</sys_created_on>
+        <sys_id>80e3c62797d12110036cbbc3f153afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_968807_to_do">ed912de397512110036cbbc3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ed912de397512110036cbbc3f153afe5</sys_scope>
+        <sys_update_name>par_dashboard_widget_80e3c62797d12110036cbbc3f153afb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-06 21:58:45</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>0</x>
+        <y>31</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">ed912de397512110036cbbc3f153afe5</application>
+        <file_path/>
+        <instance_id>b880d41fdb7d685007072f17d496195d</instance_id>
+        <instance_name>dev105866</instance_name>
+        <name>par_dashboard_widget_80e3c62797d12110036cbbc3f153afb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">0560426310d1211068087528d94a8293</canvas><component display_value="Pie">96abe7e38d8790718022c5630a92176c</component><component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_968807_to_do_to_do","id":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","id":"ZEdGaWJHVjRYemsyT0Rnd04xOTBiMTlrYjE5MGIxOWtiekUyTnpneE16azROems1TlRNPTE2NzgxMzk4ODA5Nzk=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4Xzk2ODgwN190b19kb190b19kbzE2NzgxMzk4Nzk5NTM=","groupByField":"project","isRange":false,"isChoice":false,"isPaBucket":false}]}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props><h>10</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-06 21:58:45</sys_created_on><sys_id>80e3c62797d12110036cbbc3f153afb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="To Do" source="x_968807_to_do">ed912de397512110036cbbc3f153afe5</sys_package><sys_policy/><sys_scope display_value="To Do">ed912de397512110036cbbc3f153afe5</sys_scope><sys_update_name>par_dashboard_widget_80e3c62797d12110036cbbc3f153afb3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-06 21:58:45</sys_updated_on><visualization/><w>2</w><x>0</x><y>31</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-943410714</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4738a5e797512110036cbbc3f153af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-06 21:58:45</sys_created_on>
+        <sys_id>8ce3c62797d12110036cbbc3f153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186b8ef244e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-06 21:58:45</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>c4e3c6278ad1211074d5be9e53c365b4</update_guid>
+        <update_guid_history>c4e3c6278ad1211074d5be9e53c365b4:-943410714</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">35348e6797d12110036cbbc3f153af50</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-06 22:00:15</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>972e43f6fafe4653909e6c6f465967c9</sys_id>
+        <sys_metadata>80e3c62797d12110036cbbc3f153afb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_968807_to_do">ed912de397512110036cbbc3f153afe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ed912de397512110036cbbc3f153afe5</sys_scope>
+        <sys_scope_delete display_value="">62c1ad5deb0b4f878b060bdc2f41dbb1</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_80e3c62797d12110036cbbc3f153afb3</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_80e3c62797d12110036cbbc3f153afb3">8ce3c62797d12110036cbbc3f153afb4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-06 22:00:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
